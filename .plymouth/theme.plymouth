@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Malyshev Theme
+Description=The most chetkiy theme out there
+ModuleName=script
+
+[script]
+ImageDir=/home/mlshv/.plymouth
+ScriptFile=/home/mlshv/.plymouth/theme.script
