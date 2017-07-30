@@ -227,4 +227,3 @@ bindsym XF86AudioPrev exec playerctl previous
 
 # execute
 exec xfsettingsd
-exec --no-startup-id compton -f
